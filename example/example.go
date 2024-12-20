@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hot-key-mgr/hotkeymgr"
+	"github.com/SanJuanJuanJuan/hot-key-mgr/hotkeymgr"
 	"time"
 )
 
